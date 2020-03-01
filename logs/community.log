@@ -1,0 +1,72 @@
+2020-02-08 01:00:49.953  INFO 1816 --- [main] c.f.c.c.CommunityApplicationTests        : Starting CommunityApplicationTests on WIN-U7554CBEJBC with PID 1816 (started by Administrator in E:\codes\springboot\community)
+2020-02-08 01:00:49.961  INFO 1816 --- [main] c.f.c.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2020-02-08 01:00:53.448  INFO 1816 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:00:53.794  INFO 1816 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-02-08 01:00:54.693  INFO 1816 --- [main] c.f.c.c.CommunityApplicationTests        : Started CommunityApplicationTests in 5.196 seconds (JVM running for 6.515)
+2020-02-08 01:00:54.975  INFO 1816 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:03:52.377  INFO 8280 --- [main] c.f.c.c.CommunityApplicationTests        : Starting CommunityApplicationTests on WIN-U7554CBEJBC with PID 8280 (started by Administrator in E:\codes\springboot\community)
+2020-02-08 01:03:52.381  INFO 8280 --- [main] c.f.c.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2020-02-08 01:03:55.529  INFO 8280 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:03:55.670  INFO 8280 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-02-08 01:03:56.043  INFO 8280 --- [main] c.f.c.c.CommunityApplicationTests        : Started CommunityApplicationTests in 4.249 seconds (JVM running for 5.781)
+2020-02-08 01:03:56.471  INFO 8280 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:07:29.878  INFO 8424 --- [main] c.f.c.c.CommunityApplicationTests        : Starting CommunityApplicationTests on WIN-U7554CBEJBC with PID 8424 (started by Administrator in E:\codes\springboot\community)
+2020-02-08 01:07:29.880  INFO 8424 --- [main] c.f.c.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2020-02-08 01:07:32.544  INFO 8424 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:07:32.721  INFO 8424 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-02-08 01:07:33.189  INFO 8424 --- [main] c.f.c.c.CommunityApplicationTests        : Started CommunityApplicationTests in 3.747 seconds (JVM running for 5.143)
+2020-02-08 01:07:33.476  INFO 8424 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:27:35.537  INFO 4372 --- [restartedMain] c.f.c.community.CommunityApplication     : Starting CommunityApplication on WIN-U7554CBEJBC with PID 4372 (E:\codes\springboot\community\target\classes started by Administrator in E:\codes\springboot\community)
+2020-02-08 01:27:35.543  INFO 4372 --- [restartedMain] c.f.c.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2020-02-08 01:27:35.622  INFO 4372 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-02-08 01:27:35.623  INFO 4372 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-02-08 01:27:36.870  INFO 4372 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8866 (http)
+2020-02-08 01:27:36.870  INFO 4372 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-08 01:27:36.870  INFO 4372 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-08 01:27:36.964  INFO 4372 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-08 01:27:36.964  INFO 4372 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1340 ms
+2020-02-08 01:27:37.606  INFO 4372 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:27:37.736  INFO 4372 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-02-08 01:27:38.194  INFO 4372 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-08 01:27:38.277  INFO 4372 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8866 (http) with context path ''
+2020-02-08 01:27:38.282  INFO 4372 --- [restartedMain] c.f.c.community.CommunityApplication     : Started CommunityApplication in 3.525 seconds (JVM running for 4.657)
+2020-02-08 01:27:38.635  INFO 4372 --- [http-nio-8866-exec-10] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-08 01:27:38.635  INFO 4372 --- [http-nio-8866-exec-10] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-02-08 01:27:38.645  INFO 4372 --- [http-nio-8866-exec-10] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2020-02-08 01:27:38.689  INFO 4372 --- [http-nio-8866-exec-10] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-02-08 01:27:38.814  INFO 4372 --- [http-nio-8866-exec-10] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-02-08 01:27:43.994  WARN 4372 --- [http-nio-8866-exec-6] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'code' is not present]
+2020-02-08 01:28:06.461  INFO 4372 --- [Thread-12] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:28:06.461  INFO 4372 --- [Thread-12] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-02-08 01:28:06.477  INFO 4372 --- [Thread-12] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-02-08 01:28:07.117  INFO 4372 --- [restartedMain] c.f.c.community.CommunityApplication     : Starting CommunityApplication on WIN-U7554CBEJBC with PID 4372 (E:\codes\springboot\community\target\classes started by Administrator in E:\codes\springboot\community)
+2020-02-08 01:28:07.117  INFO 4372 --- [restartedMain] c.f.c.community.CommunityApplication     : No active profile set, falling back to default profiles: default
+2020-02-08 01:28:07.789  INFO 4372 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8866 (http)
+2020-02-08 01:28:07.789  INFO 4372 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-08 01:28:07.789  INFO 4372 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.30]
+2020-02-08 01:28:07.851  INFO 4372 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-02-08 01:28:07.851  INFO 4372 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 734 ms
+2020-02-08 01:28:08.195  INFO 4372 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:28:08.242  INFO 4372 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-02-08 01:28:08.554  INFO 4372 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-08 01:28:08.570  INFO 4372 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8866 (http) with context path ''
+2020-02-08 01:28:08.570  INFO 4372 --- [restartedMain] c.f.c.community.CommunityApplication     : Started CommunityApplication in 1.49 seconds (JVM running for 34.95)
+2020-02-08 01:28:08.578  INFO 4372 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-02-08 01:28:14.766  INFO 4372 --- [http-nio-8866-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-02-08 01:28:14.766  INFO 4372 --- [http-nio-8866-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-02-08 01:28:14.777  INFO 4372 --- [http-nio-8866-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 11 ms
+2020-02-08 01:28:14.783  INFO 4372 --- [http-nio-8866-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2020-02-08 01:28:14.801  INFO 4372 --- [http-nio-8866-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2020-02-08 01:28:17.778  WARN 4372 --- [http-nio-8866-exec-5] .m.m.a.ExceptionHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'code' is not present]
+2020-02-08 01:33:07.524  INFO 13472 --- [main] c.f.c.c.CommunityApplicationTests        : Starting CommunityApplicationTests on WIN-U7554CBEJBC with PID 13472 (started by Administrator in E:\codes\springboot\community)
+2020-02-08 01:33:07.540  INFO 13472 --- [main] c.f.c.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2020-02-08 01:33:10.778  INFO 13472 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:33:11.106  INFO 13472 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-02-08 01:33:11.996  INFO 13472 --- [main] c.f.c.c.CommunityApplicationTests        : Started CommunityApplicationTests in 4.853 seconds (JVM running for 5.996)
+2020-02-08 01:33:12.456  INFO 13472 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:40:55.470  INFO 11088 --- [main] c.f.c.c.CommunityApplicationTests        : Starting CommunityApplicationTests on WIN-U7554CBEJBC with PID 11088 (started by Administrator in E:\codes\springboot\community)
+2020-02-08 01:40:55.470  INFO 11088 --- [main] c.f.c.c.CommunityApplicationTests        : No active profile set, falling back to default profiles: default
+2020-02-08 01:40:58.985  INFO 11088 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-02-08 01:40:59.167  INFO 11088 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-02-08 01:41:00.343  INFO 11088 --- [main] c.f.c.c.CommunityApplicationTests        : Started CommunityApplicationTests in 5.293 seconds (JVM running for 7.66)
+2020-02-08 01:41:01.521  INFO 11088 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
